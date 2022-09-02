@@ -9,4 +9,4 @@
   * https://t.zsxq.com/BiQfAQz
   
  博客相关文章：
-  * http://121.40.75.3:8090/archives/jian-ce-ldap-xie-yi-yi-ji-huo-qu-xiang-guan-zi-duan-de-yi-zhong-fang-shi
+  * https://wend1l.gitee.io/p/ldap-check/
